@@ -1,2 +1,3 @@
-# sql_restaurante
+# Projeto de Banco de Dados MySQL Aplicado a Restaurantes
 
+Este repositório apresenta o projeto de criação e implementação de um banco de dados relacional para um restaurante, usando o sistema de gerenciamento MySQL. O objetivo é organizar e guardar informações sobre clientes, pedidos, pratos, ingredientes, funcionários e outras operações do restaurante. Dessa forma, conseguimos fazer consultas de forma rápida e garantir que os dados permaneçam consistentes e confiáveis.
