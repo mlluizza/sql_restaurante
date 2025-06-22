@@ -1,2 +1,2 @@
-# sql_restaurante
+restaurant-analytics-database
 
